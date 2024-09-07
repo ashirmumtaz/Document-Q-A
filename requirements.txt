@@ -6,3 +6,4 @@ unstructured
 unstructured[pdf]
 transformers
 sentence-transformers
+langchain-ollama
