@@ -7,3 +7,4 @@ unstructured[pdf]
 transformers
 sentence-transformers
 langchain-ollama
+opencv-python
